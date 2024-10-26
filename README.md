@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kai6478
-- 👀 I’m interested in Information technology.
-- 🌱 I’m currently learning Programming languages, algorithms, soft skills and overall of Information technology. I'm currently exploring this world. 
-- 💞️ I’m looking to collaborate on someone who are like me.
-- 📫 How to reach me I have no plan to build my own websites or my profile. 
+- 👀 I’m interested in Information Technology, Computer Science and Science.
+- 🌱 I’m currently learning Robotics and overall Information Technology. 
+- 💞️ I want to collaborate with someone who can create cross-platform Applications. 
+- 📫  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
