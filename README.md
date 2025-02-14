@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kai6478
 - 👀 I’m interested in Information Technology, Computer Science and Science.
-- 🌱 I’m currently learning Robotics and overall Information Technology. 
+- 🌱 I’m currently learning Software Application Development. 
 - 💞️ I want to collaborate with someone who can create cross-platform Applications. 
 - 📫  
 - 😄 Pronouns: ...
