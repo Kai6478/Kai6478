@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Kai6478
-- 👀 I’m interested in Information Technology, Computer Science, and Quantum Computer.
-- 🌱 I’m taking one of the GitHub Skills, "Introduction to GitHub".
+- 👀 I’m interested in Information Technology, Computer Science, Automation and Quantum Computer.
+- 🌱 Multi-platform Application
+I'm learning softawre development, Requirement Management, UI/UX through creating a multiplarform software apllication. 
 - 💞️ I want to collaborate with someone who used to create cross-platform Applications. 
-- 📫  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Kai6478/Kai6478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
