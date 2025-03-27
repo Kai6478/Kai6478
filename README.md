@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kai6478
-- 👀 I’m interested in Information Technology, Computer Science, Automation and Quantum Computer.
+- 👀 I’m interested in Information Technology, Computer Science, Automation, and Quantum Computers.
 - 🌱 Multi-platform Application
-I'm learning softawre development, Requirement Management, UI/UX through creating a multiplarform software apllication. 
+I'm learning software development, Requirement Management, and UI/UX through creating a multiplatform software application. 
 - 💞️ I want to collaborate with someone who used to create cross-platform Applications. 
 
 <!---
